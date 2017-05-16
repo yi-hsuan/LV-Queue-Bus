@@ -135,7 +135,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{748D460C-D8C6-4DE0-81A3-189BE85EE236}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">2016</Property>
 				<Property Name="Destination[0].destName" Type="Str">System Queue.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/NI_AB_PROJECTNAME.lvlibp</Property>
